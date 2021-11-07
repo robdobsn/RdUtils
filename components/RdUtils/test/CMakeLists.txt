@@ -7,6 +7,6 @@ idf_component_register(
                   "."
                 REQUIRES
                   unity
-                  utils
+                  RdUtils
                 )
 
