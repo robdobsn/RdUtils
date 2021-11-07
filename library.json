@@ -1,0 +1,24 @@
+{
+    "name": "RdUtils",
+    "version": "1.0.0",
+    "description": "ESP32 Utility Functions",
+    "keywords": "esp32",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/robdobsn/RdUtils"
+    },
+    "authors":
+    [
+      {
+        "name": "Rob Dobson",
+        "email": "rob@dobson.com",
+        "url": "https://robdobson.com",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/robdobsn/RdUtils",
+    "frameworks": ["arduino", "espidf"],
+    "platforms": ["espressif32"]
+  }
